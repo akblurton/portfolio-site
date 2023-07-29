@@ -11,4 +11,8 @@ module.exports = {
     },
   },
   plugins: [],
+  darkMode: "media",
+  experimental: {
+    optimizeUniversalDefaults: true,
+  },
 };
